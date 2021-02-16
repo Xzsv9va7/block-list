@@ -4,7 +4,7 @@
 # Copyrigh :280blocker
 # This file is only permitted for personal use under copyright law of Japan
 # Commercial use or redistribution are prohibited except as permitted by copyright law of Japan
-# 
+# gegaga
 # It's created for Japanese user of domain block.
 # Subdomain is notfeafea a system that can block subdomains.
 #
