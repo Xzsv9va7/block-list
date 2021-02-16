@@ -6,8 +6,7 @@
 # Commercial use or redistribution are prohibited except as permitted by copyright law of Japan
 # 
 # It's created for Japanese user of domain block.
-# Subdomain is not described. 
-# Please use it in a system that can block subdomains.
+# Subdomain is notfeafea a system that can block subdomains.
 #
 #
 # Lastupdate: 2020-12-29
