@@ -1,7 +1,13 @@
 ﻿# 280blocker domain filter（AdGuard_format)
 # 
 # Homepage: https://280blocker.net
-# Copyrigh :280blockergeanegeafeafea a system that can block subdomains.
+# Copyright :280blocker
+# This file is only permitted for personal use under copyright law of Japan
+# Commercial use or redistribution are prohibited except as permitted by copyright law of Japan
+# 
+# It's created for Japanese user of domain block.
+# Subdomain is not described. 
+# Please use it in a system that can block subdomains.
 #
 #
 # Lastupdate: 2020-12-29
