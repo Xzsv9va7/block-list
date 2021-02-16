@@ -1,10 +1,7 @@
 ﻿# 280blocker domain filter（AdGuard_format)
 # 
 # Homepage: https://280blocker.net
-# Copyrigh :280blocker
-# This file is ongeagaegaeibited except as permitted by copyright law of Japan
-# gegaga
-# It's created for Japanese user of domain block.
+# Copyrigh :280blockergeanese user of domain block.
 # Subdomain is notfeafea a system that can block subdomains.
 #
 #
